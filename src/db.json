@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "id": 2,
+      "name": {
+        "first": "mustafa",
+        "last": "balikci"
+      },
+      "location": {
+        "city": "istanbul"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "first": "melek",
+        "last": "balikci"
+      },
+      "location": {
+        "city": "izmir"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "first": "murat",
+        "last": "balikci"
+      },
+      "location": {
+        "city": "sivas"
+      }
+    }
+  ]
+}
